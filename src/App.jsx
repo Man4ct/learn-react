@@ -6,6 +6,9 @@ import {
   Error,
   Login,
   DashboardLayout,
+  AddJob,
+  Stats,
+  AllJobs,
 } from "./pages";
 const router = createBrowserRouter([
   {
